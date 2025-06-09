@@ -1,5 +1,7 @@
 'use strict';
 
+
+// é pra ter ido
 const fs = require('fs');
 const path = require('path');
 const Sequelize = require('sequelize');
