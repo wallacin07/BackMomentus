@@ -41,6 +41,6 @@ applyDataStructure()
 
 const port = 8080;
 app.listen(port,()=>{
-    console.log(`http://localhost:${port}`);
+    console.log(`http://0.0.0.0:${port}`);
 });
 module.exports = app;
